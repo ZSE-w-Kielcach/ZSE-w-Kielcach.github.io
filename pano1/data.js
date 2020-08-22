@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-pano-360-zse",
-      "name": "Pano 360 ZSE",
+      "name": "Panorama 360 ZSE Kielce",
       "levels": [
         {
           "tileSize": 256,
