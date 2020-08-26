@@ -29,7 +29,14 @@ var APP_DATA = {
         "fov": 1.2656532013347397
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.755047181928509,
+          "pitch": -0.2031420529958048,
+          "title": "Warsztaty",
+          "text": "Warsztaty ZSE"
+        }
+      ]
     }
   ],
   "name": "Panorama DJI Tello (15 m n.p.g.) - kielecki \"ELEKTRYK\" i okolice",
