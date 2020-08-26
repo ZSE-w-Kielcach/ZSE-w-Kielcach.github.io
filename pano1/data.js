@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": 2.755047181928509,
           "pitch": -0.2031420529958048,
           "title": "Warsztaty",
-          "text": "Warsztaty ZSE"
+          "text": "Pracownie praktycznej nauki zawodów"
         }
       ]
     }
