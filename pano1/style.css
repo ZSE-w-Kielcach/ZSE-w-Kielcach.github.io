@@ -79,12 +79,10 @@ body.multiple-scenes.mobile #titleBar {
   height: 100%;
   line-height: 30px;
   padding: 5px;
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  background: url("../favicon.png") left center no-repeat;
+  background: url("../favicon.png") left center no-repeat rgba(58,68,84,0.8);
   -moz-user-select: text;
   -webkit-user-select: text;
   -ms-user-select: text;
