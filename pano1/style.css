@@ -84,7 +84,7 @@ body.multiple-scenes.mobile #titleBar {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-
+  background: url("../favicon.png") left center no-repeat;
   -moz-user-select: text;
   -webkit-user-select: text;
   -ms-user-select: text;
@@ -93,7 +93,6 @@ body.multiple-scenes.mobile #titleBar {
 
 .mobile #titleBar .sceneName {
   line-height: 40px;
-  background: url("../favicon.png") left center no-repeat;
 }
 
 #fullscreenToggle {
