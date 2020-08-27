@@ -46,7 +46,7 @@ var APP_DATA = {
           "yaw": 1.1024256922864257,
           "pitch": -0.49504769968240936,
           "title": "Internat",
-          "text": "Internat <a href='http://www.zse-kielce.edu.pl/'>ZSE Kielce</a>"
+          "text": "Internat <a href='http://www.zse-kielce.edu.pl/' target='_blank'><u>ZSE Kielce</u></a>"
         }
       ]
     }
