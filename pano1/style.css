@@ -49,7 +49,6 @@ a, a:hover, a:active, a:visited {
   right: 40px;
   height: 40px;
   text-align: center;
-  background: url("../favicon.png") left center no-repeat;
 }
 
 .mobile #titleBar {
@@ -94,6 +93,7 @@ body.multiple-scenes.mobile #titleBar {
 
 .mobile #titleBar .sceneName {
   line-height: 40px;
+  background: url("../favicon.png") left center no-repeat;
 }
 
 #fullscreenToggle {
