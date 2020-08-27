@@ -35,6 +35,18 @@ var APP_DATA = {
           "pitch": -0.2031420529958048,
           "title": "Warsztaty",
           "text": "Pracownie praktycznej nauki zawodów"
+        },
+        {
+          "yaw": -1.556757036071346,
+          "pitch": -0.04067448233668536,
+          "title": "Blok sportowy<br>",
+          "text": "Text"
+        },
+        {
+          "yaw": 1.1024256922864257,
+          "pitch": -0.49504769968240936,
+          "title": "Internat",
+          "text": "Text"
         }
       ]
     }
