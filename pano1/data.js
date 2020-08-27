@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": 2.755047181928509,
           "pitch": -0.2031420529958048,
           "title": "Warsztaty",
-          "text": "Pracownie praktycznej nauki zawodów,<br>sale lekcyjne, kierownik kształcenia praktycznego"
+          "text": "Pracownie praktycznej nauki zawodów,<br>sale lekcyjne,<br>pokój kierownika kształcenia praktycznego"
         },
         {
           "yaw": -1.556757036071346,
@@ -46,7 +46,7 @@ var APP_DATA = {
           "yaw": 1.1024256922864257,
           "pitch": -0.49504769968240936,
           "title": "Internat",
-          "text": ""
+          "text": "Internat ZSE"
         }
       ]
     }
