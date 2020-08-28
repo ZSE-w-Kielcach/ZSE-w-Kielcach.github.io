@@ -31,6 +31,12 @@ var APP_DATA = {
       "linkHotspots": [],
       "infoHotspots": [
         {
+          "yaw": 0.0,
+          "pitch": 0.0,
+          "title": "(0,0)",
+          "text": ""
+        },
+        {
           "yaw": 2.755047181928509,
           "pitch": -0.2031420529958048,
           "title": "Warsztaty",
