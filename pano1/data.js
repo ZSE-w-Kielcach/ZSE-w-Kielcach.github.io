@@ -31,10 +31,10 @@ var APP_DATA = {
       "linkHotspots": [],
       "infoHotspots": [
         {
-          "yaw": 0.0,
-          "pitch": 0.0,
-          "title": "(0,0)",
-          "text": ""
+          "yaw": -2.5595952234908204,
+          "pitch": -0.023783974564501875,
+          "title": "ZSE Kielce",
+          "text": "<a href='http://www.zse-kielce.edu.pl/' target='_blank'><u>http://www.zse-kielce.edu.pl/</u>"
         },
         {
           "yaw": 2.755047181928509,
@@ -52,7 +52,7 @@ var APP_DATA = {
           "yaw": 1.1024256922864257,
           "pitch": -0.49504769968240936,
           "title": "Internat",
-          "text": "Internat <a href='http://www.zse-kielce.edu.pl/' target='_blank'><u>ZSE Kielce</u></a>"
+          "text": "Internat </a>"
         }
       ]
     }
