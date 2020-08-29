@@ -34,7 +34,7 @@ var APP_DATA = {
           "yaw": -2.5595952234908204,
           "pitch": -0.023783974564501875,
           "title": "ZSE Kielce",
-          "text": "<a href='http://www.zse-kielce.edu.pl/' target='_blank'><u>http://www.zse-kielce.edu.pl/</u></a><br><a href='https://www.facebook.com/groups/zsekielce/' target='_blank'><u>https://www.facebook.com/groups/zsekielce/</u></a>"
+          "text": "<a href='http://www.zse-kielce.edu.pl/' target='_blank'><u>www.zse-kielce.edu.pl</u></a><br><a href='www.facebook.com/groups/zsekielce' target='_blank'><u>https://www.facebook.com/groups/zsekielce/</u></a>"
         },
         {
           "yaw": 2.755047181928509,
